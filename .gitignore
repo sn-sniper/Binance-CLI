@@ -1,0 +1,15 @@
+# Binaries and build artifacts
+binance-cli
+binance-tool
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+.env
+
+.DS_Store
+.idea/
+.vscode/
